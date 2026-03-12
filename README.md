@@ -32,8 +32,8 @@ Simple C++ terminal game project for practice and learning.
 
 ### 1. Compile
 
-`g++ TicTacToe.cpp -o tic-tac-toe`
-or
+`g++ TicTacToe.cpp -o tic-tac-toe`<br>
+or<br>
 `clang++ TicTacToe.cpp -o tic-tac-toe`
 
 ### 2. Run
