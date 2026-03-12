@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/language-C++-blue)
 ![Platform](https://img.shields.io/badge/platform-Terminal-lightgrey)
 
-A simple console Tic Tac Toe game written in C++ with single-player and multiplayer modes.
+Simple C++ terminal game project for practice and learning.
 
 ---
 
@@ -32,6 +32,8 @@ A simple console Tic Tac Toe game written in C++ with single-player and multipla
 
 ### 1. Compile
 
+`g++ TicTacToe.cpp -o tic-tac-toe`
+or
 `clang++ TicTacToe.cpp -o tic-tac-toe`
 
 ### 2. Run
@@ -78,7 +80,7 @@ This places your mark at row 2, column 3.
 
 ## Requirements
 
-- C++ compiler (clang++)
+- C++ compiler (clang++ / g++)
 - Terminal (Windows / Linux / macOS / Termux)
 
 ---
