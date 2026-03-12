@@ -1,5 +1,8 @@
 # Tic Tac Toe Game (C++)
 
+![Language](https://img.shields.io/badge/language-C++-blue)
+![Platform](https://img.shields.io/badge/platform-Terminal-lightgrey)
+
 A simple terminal-based Tic Tac Toe game built using C++.
 This project was created for learning and practice purposes.
 
@@ -56,13 +59,14 @@ This project was created for learning and practice purposes.
 
 Board positions:
 ```
-        columns
-       1   2   3
-row 1    |   |
-      ---+---+---
-row 2    |   |
-      ---+---+---
-row 3    |   |
+          Column
+
+         1   2   3
+      1    |   |
+        ---+---+---
+Row   2    |   |
+        ---+---+---
+      3    |   |
 ```
 Example input:
 
@@ -76,7 +80,7 @@ This places your mark at row 2, column 3.
 ## Requirements
 
 - C++ compiler (clang++)
-- Terminal / Command Prompt
+- Termux (Android) OR Terminal (Windows/Linux/macOS/PowerShell)
 
 ---
 
