@@ -30,11 +30,11 @@ Supports Single Player (vs CPU) and Multiplayer modes.
 
 ### 1. Compile
 
-g++ TicTacToe.cpp -o tic-tac-toe
+`g++ TicTacToe.cpp -o tic-tac-toe`
 
 ### 2. Run
 
-./tic-tac-toe
+`./tic-tac-toe`
 
 ---
 
