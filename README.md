@@ -55,10 +55,12 @@ g++ main.cpp -o tic-tac-toe
 
 Board positions:
 
-  1 2 3
-1 _|_|_
-2 _|_|_
-3  | |
+  1   2   3
+1 _ | _ | _
+
+2 _ | _ | _
+
+3   |   |
 
 Example input:
 
