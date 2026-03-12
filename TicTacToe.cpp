@@ -12,7 +12,7 @@ class gameBox {
         //variables
         int menuOption = 0;
         int gameMode = 0;
-        int cursorPosition = 21; //21 mobile 39 pc
+        int cursorPosition = 39; //39 mobile & pc
         int totalGameRounds = 9;
         int tossWinner = 0;
         string emptyInput;
